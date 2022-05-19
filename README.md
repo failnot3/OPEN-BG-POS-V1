@@ -2,6 +2,7 @@
 Open source Bulgarian Point of Sale project. 
 
 The idea behind this project is to make an open source Bulgarian POS app. 
+
 #GOALS
 Free and open source, but mainly community-driven. 
 
