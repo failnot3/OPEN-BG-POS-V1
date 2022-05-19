@@ -15,9 +15,10 @@ Free and open source, but mainly community-driven.
 - [ ] Local, none of that cloud stuff.
 
 
-# Usage:
+# Dev usage:
 First download or clone the repo. 
 Then navigate to the front-end folder in your terminal and write:
 ```
 npm install
 ```
+Then do the same thing with the back-end folder. 
