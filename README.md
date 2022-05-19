@@ -12,4 +12,12 @@ Free and open source, but mainly community-driven.
 - [ ] POS devices conectivity 
 - [ ] Fast and modern
 - [ ] Wide range of reports. (Covering every case)
-- [ ] Local, none of that cloud stuff. 
+- [ ] Local, none of that cloud stuff.
+
+
+# Usage:
+First download or clone the repo. 
+Second navigate to the front-end folder in your terminal and write:
+...
+npm install
+...
