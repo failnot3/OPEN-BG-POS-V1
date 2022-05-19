@@ -1,7 +1,7 @@
 # OPEN-BG-POS-V1
 Open source Bulgarian Point of Sale project. 
 
-The idea behind this project is to ope source a Bulgarian POS app. 
+The idea behind this project is to open source a Bulgarian POS app. 
 #GOALS
 Free and open source, but mainly community-driven. 
 
